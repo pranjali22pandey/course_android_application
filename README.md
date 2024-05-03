@@ -1,1 +1,1 @@
-# course_android_application
+# course_app
